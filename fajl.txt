@@ -1,1 +1,2 @@
 Imam neki teks u ovom fajlu
+dodajem jos teksta u fajl
