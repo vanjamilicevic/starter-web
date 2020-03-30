@@ -1,2 +1,5 @@
 Imam neki teks u ovom fajlu
 dodajem jos teksta u fajl
+jos teksta
+neki tekst koji dodajem ponovo
+menjam fajl
