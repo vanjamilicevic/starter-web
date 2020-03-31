@@ -1,5 +1,6 @@
 # Starter Web Project
-##Introduction
-##Purpose
+Jos stvari menjam u README fajlu
+##I ntroduction
+##P urpose
 ## Deployment
-##How to contribute
+## How to contribute
