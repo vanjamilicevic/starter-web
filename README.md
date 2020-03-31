@@ -1,7 +1,9 @@
 # Starter Web Project
 Jos stvari menjam u README fajlu
-##I ntroduction
-##P urpose
+## Introduction
+Dodajem Introduction tekst
+## Purpose
 Pisem neki tekst ovde
 ## Deployment
+Dodajem Deployment tekst u README fajlu
 ## How to contribute
