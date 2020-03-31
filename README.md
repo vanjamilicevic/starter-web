@@ -9,3 +9,4 @@ Dodajem Deployment tekst u README fajlu
 ## How to contribute
 ### Dodajem jos nesto
 I ovde jos nesto
+Menajam ovaj fajl
