@@ -1,5 +1,6 @@
 # Starter Web Project
 Jos stvari menjam u README fajlu
+Dodajem liniju za REBASE primer
 ## Introduction
 Dodajem Introduction tekst
 ## Purpose
