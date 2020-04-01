@@ -1,6 +1,7 @@
 # Starter Web Project
 Jos stvari menjam u README fajlu
-Dodajem liniju za REBASE primer
+Dodajem liniju za REBASE primer,
+jos promena u myfeature branch
 ## Introduction
 Dodajem Introduction tekst
 ## Purpose
