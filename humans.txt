@@ -6,7 +6,7 @@
     Valentina Milicevic
 
 # THANKS
-
+  Neki tekst ovde
     <name>
 
 # TECHNOLOGY COLOPHON
