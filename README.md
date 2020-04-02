@@ -7,6 +7,7 @@ Dodajem za rebase conflict
 Dodajem Introduction tekst
 fjkdjdksksjlfg
 ## Purpose
+jos jednom menjam iz bigtrouble grane
 Pisem neki tekst ovde
 ## Deployment
 Dodajem Deployment tekst u README fajlu
