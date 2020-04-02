@@ -2,6 +2,7 @@
 Jos stvari menjam u README fajlu
 Dodajem liniju za REBASE primer,
 jos promena u myfeature branch
+Dodajem za rebase conflict
 ## Introduction
 Dodajem Introduction tekst
 ## Purpose
