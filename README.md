@@ -1,9 +1,11 @@
 # Starter Web Project
 Jos stvari menjam u README fajlu
 Dodajem liniju za REBASE primer,
-fnskjdfhdlahfld
+jos promena u myfeature branch
+Dodajem za rebase conflict
 ## Introduction
 Dodajem Introduction tekst
+fjkdjdksksjlfg
 ## Purpose
 Pisem neki tekst ovde
 ## Deployment
